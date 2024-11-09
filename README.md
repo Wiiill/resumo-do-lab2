@@ -1,6 +1,3 @@
-# resumo-do-lab2
-
-resumo-do-lab2
 Criando Máquinas Virtuais na Azure e Compreendendo a SLA
 A criação de máquinas virtuais (VMs) no Microsoft Azure é um processo essencial para a maioria das operações em nuvem, e entender o Acordo de Nível de Serviço (SLA) é crucial para garantir a disponibilidade e a confiabilidade dos serviços. Aqui está uma visão geral do que aprendi sobre este processo e os diferentes níveis de SLA oferecidos pela Azure.
 
